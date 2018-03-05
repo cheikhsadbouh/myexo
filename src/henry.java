@@ -20,7 +20,7 @@ public class henry {
 
          if(sum == r ) {perfectCounter++ ; }
           if(perfectCounter == i || perfectCounter == j){
-              if(perfectCounter != prev){ prev= perfectCounter; result.add(r) ;  System.out.println(r); }
+              if(perfectCounter != prev){ prev= perfectCounter; result.add(r) ;   }
 
           }
 r++;
